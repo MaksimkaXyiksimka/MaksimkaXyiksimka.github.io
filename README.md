@@ -1,2 +1,2 @@
-# MaksimkaXyiksimka.github.io
+# makskey.github.io
 Мой первый сайт
