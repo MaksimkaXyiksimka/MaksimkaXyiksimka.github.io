@@ -30,6 +30,15 @@ nav{
 
 .main{
     width: 100%;
-    height: calc(100% - 62px);
-    background: url(../img/fon.jpg) center no-repeat;
+    height: 100%;
+    background: url(../img/boy.png) 100% 50% no-repeat, url(../img/fon.jpg) center/cover no-repeat;
+}
+.ebalo{
+    float: left;
+    margin: 432px 0px 0px 404px;
+    text-align: center;
+}
+.ebalo h1{
+    color: #2c384a;
+    font-size: 52px;
 }
